@@ -4,8 +4,8 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
 </h3>
 <p align="center">
- - 🌱 I’m currently learning **spring boot, react,** <br>
- - 📫 How to reach me **hsy.krmn@gmail.com**
+ - 🌱 I’m currently learning spring boot, react <br>
+ - 📫 How to reach me  <a href="mailto:hsy.krmn@gmail.com">send to email</a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
