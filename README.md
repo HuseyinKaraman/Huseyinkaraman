@@ -3,11 +3,10 @@
 <br>
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
 </h3>
-
-- 🌱 I’m currently learning **spring boot, react,**
-
-- 📫 How to reach me **hsy.krmn@gmail.com**
-
+<p align="center">
+ - 🌱 I’m currently learning **spring boot, react,** <br>
+ - 📫 How to reach me **hsy.krmn@gmail.com**
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/huseyinkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyinkaraman" height="30" width="40" /></a>
