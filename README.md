@@ -4,7 +4,6 @@
 </h3>
 <p align="center">
  - 🌱 I’m currently developing nodejs and react, nextjs projects <br>
- - 📫 How to reach me  <a href="mailto:hsy.krmn@gmail.com">Email</a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
