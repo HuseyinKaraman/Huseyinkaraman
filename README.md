@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huseyin Karaman</h1>
 <h3 align="center">FullStackDeveloper
 <br>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
 </h3>
 <p align="center">
- - 🌱 I’m currently developing spring boot, nodejs and react, nextjs projects <br>
+ - 🌱 I’m currently developing nodejs and react, nextjs projects <br>
  - 📫 How to reach me  <a href="mailto:hsy.krmn@gmail.com">Email</a>
 </p>
 <h3 align="center">Connect with me:</h3>
