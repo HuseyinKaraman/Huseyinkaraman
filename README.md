@@ -11,6 +11,11 @@
 <a href=mailto:hsy.krmn@gmail.com><img src="https://img.shields.io/badge/Gmail-Huseyin%20Karaman-D44638?style=for-the-badge&logo=gmail"></a> 
 </p>
 
+
+ ---
+#### 🛠 Technology Stack
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,prisma,spring,tailwind,bootstrap,mysql,postgresql,mongodb)](https://skillicons.dev)
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
