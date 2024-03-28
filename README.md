@@ -7,7 +7,9 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/huseyinkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyinkaraman" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/huseyinkaraman"><img src="https://img.shields.io/badge/LinkedIn-Huseyin%20Karaman-006192?style=for-the-badge&logo=linkedin"></a>
+<a href=mailto:hsy.krmn@gmail.com><img src="https://img.shields.io/badge/Gmail-Huseyin%20Karaman-D44638?style=for-the-badge&logo=gmail"></a> 
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
